@@ -1,5 +1,13 @@
-## Hi there 👋
+<div><img align="right" height="149" width="150" alt="Ana" src="https://cdn.discordapp.com/attachments/871199836752457749/871201441715474432/Ana.png" />
+</div>
 
+### Olá! Sou Nycolas Pacheco! 👋 
+
+- 🔭 Atualmente sou aluno de ADS no IFSP.
+- 🌱 Estou conhecendo e aprofundando em conhecimentos de programação.
+- 📫 Entre em contato por: nycoajpacheco@gmail.com
+
+##
 <!--
 **nycolasxzczxcz/nycolasxzczxcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
