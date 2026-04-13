@@ -19,8 +19,8 @@ HTML  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://ra
 
 CSS  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-Git e GitHub.
-
+Git e GitHub. <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
 ##
 
 ### Objetivos 📌
