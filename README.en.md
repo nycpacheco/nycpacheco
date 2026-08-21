@@ -1,5 +1,7 @@
 # Hello! I'm Nycolas Pacheco.
 
+🌐 **Read in:** [Portuguese](README.md)
+
 * **Systems Analysis and Development Student** — IFSP Bragança Paulista  
 * **Software Development (Python & SQL)** — Focused on practical projects, automation, and API integration.  
 * Seeking a **tech internship** opportunity.
