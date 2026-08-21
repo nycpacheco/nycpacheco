@@ -27,8 +27,7 @@ Lógica de Programação.
 
 
 C/C++ <img align="center" alt="Nyc-C++" height="30" width="40"
-
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
             
 
