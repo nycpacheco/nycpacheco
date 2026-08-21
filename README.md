@@ -1,6 +1,6 @@
 # Olá! Sou Nycolas Pacheco.
 
-**Read in:** [English](README.en.md) | [Português](README.md)
+**Read in:** [English](README.en.md)
 
 * **Estudante de Análise e Desenvolvimento de Sistemas** — IFSP Bragança Paulista  
 * **Desenvolvimento de Software (Python & SQL)** — Focado em projetos práticos, automação e consumo de APIs.  
