@@ -1,48 +1,65 @@
-### Olá! Sou Nycolas Pacheco! 👋 
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFSP.
-
-💻 Iniciando minha jornada na área de programação.
-
-🚀 Atualmente focado em aprender lógica de programação e desenvolvimento
-
-##
-
-### Tecnologias que estou aprendendo
-
-Lógica de Programação.
-
-C/C++ <img align="center" alt="Nyc-C++" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-            
-HTML  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-CSS  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-Git e GitHub. <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
-##
-
-### Objetivos 📌
-
-Evoluir minhas habilidades como desenvolvedor
-
-Construir projetos práticos
-
-Conseguir minha primeira oportunidade na área de tecnologia
-
-##
-
-### Contato 📫
-<div> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nycoajpacheco@gmail.com" target="_blank">
-  <a href="https://www.instagram.com/nycpacheco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=nycoajpacheco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nycolas-pacheco-b7934b3b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="right">
+  <a href="#-nycolas-pacheco---pt-br">pt-br</a> • 
+  <a href="#-nycolas-pacheco---en">en</a>
 </div>
 
-Email: nycoajpacheco@gmail.com
+<a id="-nycolas-pacheco---pt-br"></a>
+# Olá, sou o Nycolas Pacheco! 👋
 
-##
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (IFSP)**  
+💻 **Desenvolvedor Python** focado em automação, banco de dados e integração de Inteligência Artificial.
 
-### Em constante aprendizado! ⭐
+---
+
+### 🚀 Projeto em Destaque
+
+* **[FinanceAI](https://github.com/SEU_USUARIO/FinanceAI)** — Assistente financeiro em Python que interpreta gastos em linguagem natural via **Google Gemini API**, gerencia saldos em tempo real com **SQLite** e exporta dados para Excel via **Pandas**.
+  * **Techs:** `Python` | `Streamlit` | `Google Gemini API` | `SQLite3` | `Pandas` | `OpenPyXL`
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+* **Linguagens:** Python, C/C++, SQL
+* **Web & Interface:** Streamlit, HTML5, CSS3
+* **Dados & IA:** Pandas, SQLite3, Google Gemini API
+* **Outros:** Git, GitHub, VS Code, Excel
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-pacheco-b7934b3b5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nycoajpacheco@gmail.com)
+
+---
+<br>
+<hr>
+<br>
+
+<a id="-nycolas-pacheco---en"></a>
+# Hi, I'm Nycolas Pacheco! 👋
+
+🎓 **Software Analysis & Development Student (IFSP)**  
+💻 **Python Developer** focused on automation, databases, and Artificial Intelligence integration.
+
+---
+
+### 🚀 Featured Project
+
+* **[FinanceAI](https://github.com/SEU_USUARIO/FinanceAI)** — AI-powered personal finance assistant in Python that interprets expenses from natural language using the **Google Gemini API**, manages real-time balances with **SQLite**, and exports data to Excel via **Pandas**.
+  * **Techs:** `Python` | `Streamlit` | `Google Gemini API` | `SQLite3` | `Pandas` | `OpenPyXL`
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C/C++, SQL
+* **Web & UI:** Streamlit, HTML5, CSS3
+* **Data & AI:** Pandas, SQLite3, Google Gemini API
+* **Tools:** Git, GitHub, VS Code, Excel
+
+---
+
+### 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-pacheco-b7934b3b5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nycoajpacheco@gmail.com)
